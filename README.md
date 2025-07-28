@@ -27,8 +27,7 @@ python legal_doc_summ.py
 
 Access Gradio UI The Gradio interface will open automatically for uploading legal documents and querying.
 
-F![MuaKissGIF](https://github.com/user-attachments/assets/ab8b4aad-4112-4e9f-aebd-660b133fc89c)
-uture Work
+🧠👀Future Work
 Fine-tuning legal domain-specific LLMs for better summarization.
 
 Real-time integration with legal databases (e.g., IPC, GST laws).
@@ -37,5 +36,5 @@ Enhanced multilingual support for more regional languages.
 
 Blockchain integration for tamper-proof legal document handling.
 
-Acknowledgments
+😊Acknowledgments
 This project was developed as part of an academic research initiative at VIT Vellore, focusing on applying Agentic AI and Generative AI techniques to the legal industry.
